@@ -1,0 +1,19 @@
+.js-container {
+  box-sizing: border-box;
+}
+
+.js-board {
+  width: 300px;
+  border: 2px solid black;
+}
+
+.js-row {
+  display: flex;
+}
+.js-column {
+  border: 1px solid black;
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
